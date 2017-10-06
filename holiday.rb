@@ -90,3 +90,6 @@ class Cohort
   end
 
 end
+
+robocop = Cohort.new(Date.new(2017,9,11))
+puts robocop.inspect
