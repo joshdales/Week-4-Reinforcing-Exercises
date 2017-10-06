@@ -99,3 +99,8 @@ puts robocop.last_day
 puts robocop.no_lecture_on(Date.new(2017,10,8))
 
 puts robocop.double_check_holiday(Date.new(2017,9,20))
+
+puts robocop.class_days
+puts robocop.weeks_of_cohort
+
+puts robocop.coffee_code_days
